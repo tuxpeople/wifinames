@@ -44,7 +44,6 @@ BND Überwachungsfahrzeug 15
 BND_Abhörstation_15B
 Borderlan
 Bundestrojaner
-c:/virus.exe
 C:Virus.exe
 Can I haz Wifi
 Can't hack this
